@@ -3608,6 +3608,7 @@
         {
           "name": "OPENVPN_CONFIG",
           "label": "OPENVPN_CONFIG",
+		  "description": "Define regional server to be connected to",
           "default": ""
         },
         {
